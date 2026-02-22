@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Muhammad Abu Bakar!
 
-Welcome to my GitHub portfolio! I'm a passionate AI/ML Engineer specializing in building intelligent, scalable systems using modern tools and frameworks. This repository serves as a central hub for showcasing my personal and professional projects, technical skills, and learning journey.
+Welcome to my GitHub portfolio! I'm a passionate AI/ML and Automation Engineer specializing in building intelligent, scalable systems using modern tools and frameworks. This repository serves as a central hub for showcasing my personal and professional projects, technical skills, and learning journey.
 
 ---
 
